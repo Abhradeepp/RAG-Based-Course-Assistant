@@ -1,0 +1,302 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " Today we will see who has the guts"
+    },
+    {
+        "start": 2.0,
+        "end": 7.0,
+        "text": " Because in this video, I am going to give you all the concepts that we have learnt in this Sigma web development course"
+    },
+    {
+        "start": 7.0,
+        "end": 9.0,
+        "text": " I am going to give you an exercise based on that"
+    },
+    {
+        "start": 9.0,
+        "end": 10.0,
+        "text": " Which you have to solve"
+    },
+    {
+        "start": 10.0,
+        "end": 14.0,
+        "text": " And if you have decided that you are going to solve that question"
+    },
+    {
+        "start": 14.0,
+        "end": 16.0,
+        "text": " Then write in the comment section below"
+    },
+    {
+        "start": 16.0,
+        "end": 17.0,
+        "text": " Challenge Accepted"
+    },
+    {
+        "start": 17.0,
+        "end": 18.0,
+        "text": " Everyone write it"
+    },
+    {
+        "start": 18.0,
+        "end": 19.0,
+        "text": " And also like this video"
+    },
+    {
+        "start": 19.0,
+        "end": 23.0,
+        "text": " Because my energy is high to start this video"
+    },
+    {
+        "start": 23.0,
+        "end": 25.0,
+        "text": " Let's go to the computer screen"
+    },
+    {
+        "start": 25.0,
+        "end": 26.0,
+        "text": " Let's roll the intro"
+    },
+    {
+        "start": 31.0,
+        "end": 34.0,
+        "text": " Intro"
+    },
+    {
+        "start": 34.0,
+        "end": 36.0,
+        "text": " So I have come inside the computer screen"
+    },
+    {
+        "start": 36.0,
+        "end": 38.0,
+        "text": " I have also made a folder named Video 33"
+    },
+    {
+        "start": 38.0,
+        "end": 39.0,
+        "text": " It is ready"
+    },
+    {
+        "start": 39.0,
+        "end": 41.0,
+        "text": " And here I am going to tell you"
+    },
+    {
+        "start": 41.0,
+        "end": 44.0,
+        "text": " What you have to do in this exercise"
+    },
+    {
+        "start": 44.0,
+        "end": 47.0,
+        "text": " I have officially uploaded the shoutouts of the exercise"
+    },
+    {
+        "start": 47.0,
+        "end": 49.0,
+        "text": " If you have not seen the video"
+    },
+    {
+        "start": 49.0,
+        "end": 51.0,
+        "text": " And this time I want to tell you"
+    },
+    {
+        "start": 51.0,
+        "end": 53.0,
+        "text": " That you will get a shoutout"
+    },
+    {
+        "start": 53.0,
+        "end": 56.0,
+        "text": " Which will write Challenge Accepted in the comment section below"
+    },
+    {
+        "start": 56.0,
+        "end": 58.0,
+        "text": " So what you have to do in this exercise"
+    },
+    {
+        "start": 58.0,
+        "end": 59.0,
+        "text": " I am telling you"
+    },
+    {
+        "start": 59.0,
+        "end": 61.0,
+        "text": " You have to design a navbar"
+    },
+    {
+        "start": 61.0,
+        "end": 63.0,
+        "text": " And after designing a navbar"
+    },
+    {
+        "start": 63.0,
+        "end": 66.0,
+        "text": " You have to make a style sheet"
+    },
+    {
+        "start": 66.0,
+        "end": 68.0,
+        "text": " In which I will change a variable"
+    },
+    {
+        "start": 68.0,
+        "end": 70.0,
+        "text": " That is, you have to make some global variables"
+    },
+    {
+        "start": 70.0,
+        "end": 72.0,
+        "text": " And according to those global variables"
+    },
+    {
+        "start": 72.0,
+        "end": 75.0,
+        "text": " The contrast of your color will change"
+    },
+    {
+        "start": 75.0,
+        "end": 78.0,
+        "text": " That is, you have to make a multicolored navbar"
+    },
+    {
+        "start": 78.0,
+        "end": 80.0,
+        "text": " And you can do this simply"
+    },
+    {
+        "start": 80.0,
+        "end": 82.0,
+        "text": " By using CSS variables"
+    },
+    {
+        "start": 82.0,
+        "end": 84.0,
+        "text": " I have told you about CSS variables"
+    },
+    {
+        "start": 84.0,
+        "end": 86.0,
+        "text": " In video number 30"
+    },
+    {
+        "start": 87.0,
+        "end": 90.0,
+        "text": " By using the concepts told in video number 30"
+    },
+    {
+        "start": 90.0,
+        "end": 93.0,
+        "text": " You have to make this multicolored navbar"
+    },
+    {
+        "start": 93.0,
+        "end": 95.0,
+        "text": " I also want to tell you that"
+    },
+    {
+        "start": 95.0,
+        "end": 97.0,
+        "text": " We will gradually transition"
+    },
+    {
+        "start": 97.0,
+        "end": 99.0,
+        "text": " To make a full website"
+    },
+    {
+        "start": 99.0,
+        "end": 100.0,
+        "text": " There are some important concepts"
+    },
+    {
+        "start": 100.0,
+        "end": 101.0,
+        "text": " After covering that"
+    },
+    {
+        "start": 101.0,
+        "end": 103.0,
+        "text": " Like we have flexbox"
+    },
+    {
+        "start": 103.0,
+        "end": 105.0,
+        "text": " Then we have grid"
+    },
+    {
+        "start": 105.0,
+        "end": 107.0,
+        "text": " Then transitions and animations"
+    },
+    {
+        "start": 107.0,
+        "end": 109.0,
+        "text": " After all that"
+    },
+    {
+        "start": 109.0,
+        "end": 111.0,
+        "text": " We will make full-on websites"
+    },
+    {
+        "start": 111.0,
+        "end": 113.0,
+        "text": " So many people are waiting"
+    },
+    {
+        "start": 113.0,
+        "end": 115.0,
+        "text": " When will the full-on websites be made"
+    },
+    {
+        "start": 115.0,
+        "end": 117.0,
+        "text": " And the wait is going to be over very soon"
+    },
+    {
+        "start": 117.0,
+        "end": 118.0,
+        "text": " Let me tell you"
+    },
+    {
+        "start": 118.0,
+        "end": 120.0,
+        "text": " So I hope you have accessed this playlist"
+    },
+    {
+        "start": 120.0,
+        "end": 122.0,
+        "text": " And the source code is also being uploaded"
+    },
+    {
+        "start": 122.0,
+        "end": 124.0,
+        "text": " So you guys do access it too"
+    },
+    {
+        "start": 124.0,
+        "end": 126.0,
+        "text": " That's all for this video guys"
+    },
+    {
+        "start": 126.0,
+        "end": 128.0,
+        "text": " Thank you so much guys for watching this video"
+    },
+    {
+        "start": 128.0,
+        "end": 130.0,
+        "text": " And I will see you next time"
+    },
+    {
+        "start": 130.0,
+        "end": 152.0,
+        "text": " Outro Music"
+    }
+]

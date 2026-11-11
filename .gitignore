@@ -1,0 +1,8 @@
+videos/
+audios/
+jsons/
+newjsons/
+embeddings.joblib
+prompt.txt
+response.txt
+__pycache__/
